@@ -1,0 +1,21 @@
+degree,company_location,salary_more_than_100k,job_title,salary
+masters,DE,0,Data Science Consultant,54000
+bachelors,US,0,Data Scientist,60000
+masters,RU,0,Head of Data Science,85000
+bachelors,RU,1,Head of Data,230000
+masters,US,1,Machine Learning Engineer,125000
+masters,US,1,Data Analytics Manager,120000
+bachelors,US,1,Research Scientist,450000
+masters,FR,0,Data Analyst,41000
+bachelors,AT,0,Data Engineer,65000
+masters,CA,1,Data Science Engineer,159500
+bachelors,US,1,Manager Data Science,144000
+masters,UA,0,Data Scientist,13400
+bachelors,CA,0,Data Scientist,95000
+masters,US,1,Data Scientist,150000
+bachelors,US,1,Data Science Consultant,103000
+bachelors,US,1,Data Engineering Manager,153000
+masters,US,0,Data Engineer,90000
+bachelors,US,0,Data Analyst,90000
+bachelors,US,0,Data Analyst,60000
+bachelors,NG,0,Data Scientist,50000
